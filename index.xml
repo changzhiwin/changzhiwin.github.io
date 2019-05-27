@@ -6,10 +6,21 @@
     <description>Recent content on Changzhi&#39;s Bolg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2019 20:51:58 +0800</lastBuildDate>
     
 	<atom:link href="https://changzhiwin.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>我为什么要搭建这静态写作站点</title>
+      <link>https://changzhiwin.github.io/posts/why-i-do-this/</link>
+      <pubDate>Mon, 27 May 2019 20:51:58 +0800</pubDate>
+      
+      <guid>https://changzhiwin.github.io/posts/why-i-do-this/</guid>
+      <description>我们从小学的教育其实就在教写作，但是那个时候几乎没有人能够明白，为什么要学这个事情。长大后其实还是不明白的，因为我到30多岁也还没有认识到它的厉害，真的。感觉就是糊里糊涂走过了时间。
+##总结是对大脑内存的清理 就像一块硬盘，如里面随便放，会产生很多碎片，很多空间都是浪费的
+##写作是需要时间积累的 不写，你就永远写不好；而写作是很基础的一项生活技能。</description>
+    </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
